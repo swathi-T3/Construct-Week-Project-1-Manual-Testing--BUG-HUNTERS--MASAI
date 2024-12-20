@@ -26,9 +26,10 @@ This Project performing the manual testing to the Slide Maste, it is a web appli
  *[Test Scenarios & Test Cases](https://docs.google.com/spreadsheets/d/1KjPAtmM0_ywtEhZR-iFY_0nFy7ODmgEQzA2YkY9sz8E/edit?usp=sharing)*
  <br>
  <br>
-### Taskk-3
+### Task-3
 #### Bug Report 
 Identifying the various bugs in the application need urgency to fixes those bugs, so I have created detailed of bug report that which inlcudes the overview and bugs which occured while i'm performed the exploratory testing for the Slide master application
+*[Bug-Report]()
 
 
 
