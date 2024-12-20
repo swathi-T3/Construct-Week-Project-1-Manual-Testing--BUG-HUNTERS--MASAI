@@ -12,11 +12,11 @@ This Project performing the manual testing to the Slide Maste, it is a web appli
 <br>
  ### Task-1
 #### Test plan
- Creation of tets plan that includes the overview of the document and here provided the link of it
+ Creation of test plan that includes the overview of the document and here provided the link of it
 *[TEST-PLAN DOC](https://docs.google.com/document/d/1iIFkY6_GZKZX9kWcdG15jBrMfJJH8k9ioIzuIbiLbzo/edit?usp=sharing)*_
  <br>
  <br>
- I have been created this test plan by using "Xmindmap" tool. I am providing the it's link here,
+ I have been created this test plan by using "Xmindmap" tool. this is like a blueprint to memorize what we included in document, I am providing it's link here,
  *[X-MINDMAP](https://xmind.ai/share/OYpJ6FBN)*
 <br>
 <br>
@@ -24,5 +24,28 @@ This Project performing the manual testing to the Slide Maste, it is a web appli
 #### Test Scenario and Test Cases Scenario 
  Creation of Test Scenario and Test Cases Scenario using google sheets which inchlude the overview of the different identified test cases in application like positive and negative cases in functional tetsing, Usability testig and performing testing.
  *[Test Scenarios & Test Cases](https://docs.google.com/spreadsheets/d/1KjPAtmM0_ywtEhZR-iFY_0nFy7ODmgEQzA2YkY9sz8E/edit?usp=sharing)*
+ <br>
+ <br>
+### Taskk-3
+#### Bug Report 
+Identifying the various bugs in the application need urgency to fixes those bugs, so I have created detailed of bug report that which inlcudes the overview and bugs which occured while i'm performed the exploratory testing for the Slide master application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
  
  
