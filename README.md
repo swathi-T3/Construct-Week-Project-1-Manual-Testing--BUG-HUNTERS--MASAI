@@ -29,7 +29,7 @@ This Project performing the manual testing to the Slide Maste, it is a web appli
 ### Task-3
 #### Bug Report 
 Identifying the various bugs in the application need urgency to fixes those bugs, so I have created detailed of bug report that which inlcudes the overview and bugs which occured while i'm performed the exploratory testing for the Slide master application
-*[Bug-Report]()
+*[Bug-Report](https://docs.google.com/spreadsheets/d/1jJrJGhz2I0Qh9xuB38S_HX8AiGIpYpM3rJz_Z3XQmHU/edit?usp=sharing)*
 
 
 
