@@ -23,5 +23,6 @@ This Project performing the manual testing to the Slide Maste, it is a web appli
 ### Task-2
 #### Test Scenario and Test Cases Scenario 
  Creation of Test Scenario and Test Cases Scenario using google sheets which inchlude the overview of the different identified test cases in application like positive and negative cases in functional tetsing, Usability testig and performing testing.
+ *[Test Scenarios & Test Cases](https://docs.google.com/spreadsheets/d/1KjPAtmM0_ywtEhZR-iFY_0nFy7ODmgEQzA2YkY9sz8E/edit?usp=sharing)*
  
  
