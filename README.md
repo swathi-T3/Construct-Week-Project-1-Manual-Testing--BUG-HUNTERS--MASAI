@@ -30,6 +30,15 @@ This Project performing the manual testing to the Slide Maste, it is a web appli
 #### Bug Report 
 Identifying the various bugs in the application need urgency to fixes those bugs, so I have created detailed of bug report that which inlcudes the overview and bugs which occured while i'm performed the exploratory testing for the Slide master application
 *[Bug-Report](https://docs.google.com/spreadsheets/d/1jJrJGhz2I0Qh9xuB38S_HX8AiGIpYpM3rJz_Z3XQmHU/edit?usp=sharing)*
+<br>
+<br>
+### Task-4
+#### Test Summary Report
+After finishing the  creation of Bug Report , need to create a detailed summary for beginning to till now what we have prepared and what kind of testings we included what tools had used for all tese process , finally it which includes how went everything of the project , here i have prepared it's document , providing with link here
+*[Test Summary Report](https://docs.google.com/document/d/1PJlWe7SLjPN_gNhL-rALlSzYshhfcQZr/edit?usp=sharing&ouid=105267886432594241208&rtpof=true&sd=true)*
+<br>
+<br>
+*So the finally ending of it. which i have done the project on Slider-Master (which is about creating best of the presentations with very ease features),so as per me as testing field. I done testing for the application with proper approach like step by step process,i.e making the whole plan of it what are neccessary included,then forwarding it creations of test cases,bug report and test summary. here where i have faced the challenges on peroforming the exploratory testing like each part of the application i actually finded other link in the same application as like it's my first project i really confused what to do these all eventually i seeked the help of our IA instructor who helped me lot of clarifying my doubts.I think maybe i have did'nt not perofomed(cause of first project) it well but i hope everyone can reach out the details of my project.*
 
 
 
