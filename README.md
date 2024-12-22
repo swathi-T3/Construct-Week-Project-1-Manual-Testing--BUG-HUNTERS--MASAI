@@ -7,9 +7,10 @@ This is web application which is used to create different ways of presenting the
 ![slidemaster Logo](https://github.com/user-attachments/assets/19bce471-639d-49f4-a3b3-f69619ba536f)
 
 ### Introduction
-This Project performing the manual testing to the Slide Maste, it is a web application designed for creating professional, visually stunning presentations with ease. It offers a wide range of customizable templates, drag-and-drop functionality, and design tools to enhance slides effortlessly. Ideal for businesses, educators, and creatives, it streamlines the presentation-building process while ensuring a polished, professional outcome. With collaboration features and seamless integration options, Slide Master caters to both individual and team projects.
+This Project performing the manual testing to the Slide Master, it is a web application designed for creating professional, visually stunning presentations with ease. It offers a wide range of customizable templates, drag-and-drop functionality, and design tools to enhance slides effortlessly. Ideal for businesses, educators, and creatives, it streamlines the presentation-building process while ensuring a polished, professional outcome. With collaboration features and seamless integration options, Slide Master caters to both individual and team projects.
 <br>
 <br>
+
  ### Task-1
 #### Test plan
  Creation of test plan that includes the overview of the document and here provided the link of it
