@@ -1,5 +1,5 @@
 # **BUG-HUNTERS**
-## [**SLIDE-MASTER**](https://hack-hurdles-036.vercel.app/)
+## [**Hack Hurdles**](https://hack-hurdles-036.vercel.app/)
 ### Description 
 This is web application which is used to create different ways of presenting the presentations
 <br>
