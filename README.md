@@ -14,7 +14,7 @@ This Project performing the manual testing to the Slide Master, it is a web appl
  ### Task-1
 #### Test plan
  Creation of test plan that includes the overview of the document and here provided the link of it
-*[TEST-PLAN DOC](https://docs.google.com/spreadsheets/d/1KjPAtmM0_ywtEhZR-iFY_0nFy7ODmgEQzA2YkY9sz8E/edit?usp=sharing)*_
+*[TEST-PLAN DOC](https://docs.google.com/document/d/1K0V_pjJy1Vdjjqn81jdlExK09HvEQCaU/edit?usp=sharing&ouid=105267886432594241208&rtpof=true&sd=true)*_
  <br>
  <br>
  I have been created this test plan by using "Xmindmap" tool. this is like a blueprint to memorize what we included in document, I am providing it's link here,
