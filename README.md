@@ -18,7 +18,7 @@ This Project performing the manual testing to the Slide Master, it is a web appl
  <br>
  <br>
  I have been created this test plan by using "Xmindmap" tool. this is like a blueprint to memorize what we included in document, I am providing it's link here,
- *[X-MINDMAP](https://xmind.ai/share/OYpJ6FBN)*
+ *[X-MINDMAP](https://drive.google.com/file/d/1gbhMZgyl5uyN0-6GBS1KvNYTT40C2OT8/view?usp=drive_link)*
 <br>
 <br>
 ### Task-2
